@@ -21,6 +21,6 @@ public class Main {
 	}
 	
 	public void feature() {
-		
+		System.out.println("feeeeature!!");
 	}
 }
