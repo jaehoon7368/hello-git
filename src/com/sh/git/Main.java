@@ -12,6 +12,7 @@ public class Main {
 	
 	public void master() {
 		System.out.println("master!!!!!");
+		System.out.println("origin/master에서 작성함!!!!!");
 	}
 	
 	public static void main(String[] args) {
