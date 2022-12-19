@@ -1,6 +1,6 @@
 package com.sh.git;
 /*
- * 되돌리기
+ * 되돌리기 (협업할때는 추천하지않음)
  *  -revert : 지정한 커밋의 작업내용을 취소한 버젼을 새로운 커밋으로 만든다.(conflict날수 있음)
  *  
  *  -reset : 지정한 커밋으로 돌아간다.
@@ -13,5 +13,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("hello world");
 
+	}
+	
+	public void feature() {
+		
 	}
 }
